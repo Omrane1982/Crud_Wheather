@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Crud_Wheather/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Crud_Wheather/static/js/main.10a7f41b.chunk.js",
+    "main.js.map": "/Crud_Wheather/static/js/main.10a7f41b.chunk.js.map",
+    "runtime~main.js": "/Crud_Wheather/static/js/runtime~main.8fa55334.js",
+    "runtime~main.js.map": "/Crud_Wheather/static/js/runtime~main.8fa55334.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Crud_Wheather/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Crud_Wheather/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Crud_Wheather/index.html",
+    "precache-manifest.8852dbafa4bd7a5b14ddb9e7a800394e.js": "/Crud_Wheather/precache-manifest.8852dbafa4bd7a5b14ddb9e7a800394e.js",
+    "service-worker.js": "/Crud_Wheather/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Crud_Wheather/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Crud_Wheather/static/media/logo.5d5d9eef.svg"
+  }
+}
